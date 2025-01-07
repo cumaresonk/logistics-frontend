@@ -7,6 +7,12 @@ I have attached the sample screen shots of the app for reference
 ![Shipment List](Shipment%20List.png)
 ![Shipment Update](Shipment%20Update.png)
 
+## Project setup
+
+```bash
+$ npm install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
