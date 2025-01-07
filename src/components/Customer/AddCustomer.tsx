@@ -72,7 +72,7 @@ const styles = {
   form: {
     display: 'flex',
     flexDirection: 'column' as 'column',
-    gap: '10px', // Reduced space between elements
+    gap: '10px',
   },
   label: {
     fontSize: '14px',

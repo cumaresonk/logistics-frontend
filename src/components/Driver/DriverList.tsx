@@ -104,7 +104,6 @@ const styles = {
     borderRadius: '4px',
     fontSize: '14px',
     transition: 'background-color 0.3s ease',
-    width:"15%"
   },
   table: {
     width: '90%',

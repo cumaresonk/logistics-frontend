@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 📸 Screenshots
+I have attached the sample screen shots of the graphQL api for reference
+![Customer List](Customer%20List.png)
+![Driver List](Driver%20List.png)
+![Shipment List](Shipment%20List.png)
+![Shipment Update](Shipment%20Update.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
